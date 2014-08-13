@@ -1,0 +1,40 @@
+body {background-color:#FFFFFF;}
+.content {margin-top:70px;}
+.home-banner {background: url('../images/banner2.png') no-repeat center center; background-size:cover;}
+.home-banner h1 {color:white; text-transform: uppercase; font-size: 40px; text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+             0px 8px 13px rgba(0,0,0,0.1),
+             0px 18px 23px rgba(0,0,0,0.1); font-weight:700;}
+.home-banner h2 {color:white; text-transform: uppercase; font-size: 30px; text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+             0px 8px 13px rgba(0,0,0,0.1),
+             0px 18px 23px rgba(0,0,0,0.1); font-weight:700;}
+.logo {height:80px;}
+.nav-title {color:white!important;}
+.center-padding {padding-top:10px;}
+
+.navbar-nav > li > a {text-align: center!important;}
+
+.jumbotron p {font-size: 18px!important; text-align: justify!important;}
+.home-jumbo {background-color:transparent; padding:5px!important;}
+.btn {margin-bottom:5px!important;}
+
+.navbar-text.righty {font-size: 11px!important; text-align: center!important;}
+.navbar-text.lefty {font-size: 13px!important;}
+.buttons-center { margin-top:15px; margin-bottom:15px;}
+.fixtures {background:url('../images/hoops.png') no-repeat center center; background-size:100%; box-shadow: 3px 4px silver; border: solid 1px silver;}
+
+
+/* Media Queries */
+
+@media only screen 
+and (max-width : 767px) {
+.home-banner {text-align: center!important;}
+.buttons-center {text-align: center;}
+.lefty {float:none!important; text-align: center!important;}
+.righty {float:none!important; text-align: center!important;}    
+}
+
+@media only screen 
+and (max-width : 570px) {
+.home-jumbo {text-align: center;}
+.navbar-inverse {opacity: 0.95!important;}    
+}
