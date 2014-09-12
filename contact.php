@@ -15,7 +15,8 @@
     <![endif]-->    
 
 <link rel="stylesheet" type="text/css" href="assets/css/style.css">    
-<script src="email/validation.js" type="text/javascript"></script>    
+<script src="email/validation.js" type="text/javascript"></script>  
+  <script src="assets/js/respond.js"></script> 
     
 </head>
 
