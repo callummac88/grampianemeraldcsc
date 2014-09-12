@@ -49,7 +49,7 @@ input, textarea {width:100%!important; margin:10px!important; padding:3px;}
  .actions {margin-bottom:20px;}
 
 .contact-right {padding:20px;}
-.contact-img {margin-left: auto; margin-right: auto; float:right; max-width:80%!important;}
+.contact-img {margin-left: auto; margin-right: auto; float:right; max-width:80%!important; border-radius:10px;}
 
 
 .gallery-img img {width:100%; height:270px!important;}
