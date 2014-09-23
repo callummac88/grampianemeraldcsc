@@ -3,7 +3,7 @@
 <head>
 <title>Grampian Emerald CSC | Aberdeen</title>
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-<meta name="description" content="Grampian Emerald Celtic Supporters Club, Aberdeen, Scotland">
+<meta name="description" content="Grampian Emerald Celtic Supporters Club, About The Committee">
 <meta http-equiv="content-type" content="text/html; charset=utf-8" />
 <script src="//code.jquery.com/jquery-1.10.2.min.js"></script>    
 <script src="assets/js/bootstrap.min.js"></script>    
