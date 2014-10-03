@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
-<title>Grampian Emerald CSC | Aberdeen</title>
+<title>Grampian Emerald CSC | Club Constitution</title>
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 <meta name="description" content="Grampian Emerald Celtic Supporters Club, Constitution">
 <meta http-equiv="content-type" content="text/html; charset=utf-8" />

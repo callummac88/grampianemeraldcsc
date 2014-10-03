@@ -54,6 +54,8 @@ input, textarea {width:100%!important; margin:10px!important; padding:3px;}
 
 .gallery-img img {width:100%; height:270px!important;}
 
+.news-item {border-top:solid 2px #79A17D; border-bottom:solid 2px #79A17D; margin-top:20px; padding-top:10px; padding-bottom:10px;}
+
 /* Media Queries */
 
 @media only screen 
